@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
   "description": "Closes the active tab only when focus is in the main editor — pressing the close hotkey while a sidebar panel is focused does nothing.",
-  "author": "Arkadiusz Panek",
-  "authorUrl": "https://github.com/YOURUSERNAME",
+  "author": "Arkadiusz",
+  "authorUrl": "https://github.com/arkadiusz989",
   "isDesktopOnly": true
 }
